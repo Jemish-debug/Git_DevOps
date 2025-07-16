@@ -1,1 +1,1 @@
-This isfile was made for usintesting the revert fucntion of git.
+This file was made for testing the revert function of git.
